@@ -1,0 +1,14 @@
+{
+    "name": "lewik/behat_mchs",
+    "require": {
+        "behat/behat": "~3.0",
+        "behat/mink-extension": "~2.0",
+        "behat/mink-selenium2-driver": "~1.2"
+    },
+    "authors": [
+        {
+            "name": "Lev Shagalov",
+            "email": "lllewik@gmail.com"
+        }
+    ]
+}
