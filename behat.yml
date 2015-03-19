@@ -1,0 +1,11 @@
+default:
+  suites:
+    my_suite:
+      contexts:
+        - FeatureContext
+  extensions:
+    Behat\MinkExtension:
+      base_url:  'debug.pokosmos.local'
+      sessions:
+        default:
+          selenium2: ~
